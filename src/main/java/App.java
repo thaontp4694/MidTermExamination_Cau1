@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-public class App {
-    public static void main(String[] args) {
-    /*
+/*
     Cho chuỗi sau: You Only Live Once. But if You do it right. once is Enough
 
     Đếm số từ viết in hoa trong chuỗi (VD: chuỗi trên có 7 ký tự in hoa)
@@ -11,6 +9,9 @@ public class App {
     Chuyển ký tự đầu tiên của chuỗi hoặc ký tự đầu tiên của từ sau dấu chấm là viết in hoa, các chữ con lại viết thường
     (VD: You only live once. But if you do it right. Once is enough)
      */
+
+public class App {
+    public static void main(String[] args) {
 
         System.out.println("Bài 1");
         String s1 = inputString();
